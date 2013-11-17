@@ -6,3 +6,17 @@ var/*
 /app/etc/use_cache.ser
 local.xml
 input_sales*
+vagrant
+.vagrant
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
