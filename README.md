@@ -20,3 +20,8 @@ environment, i.e. [VirtualBox][]
 
 Afterwards you can visit [http://33.33.33.10](http://33.33.33.10) to complete
 magento installation.
+
+[Berkshelf]:http://berkshelf.com/
+[Bundler]:http://gembundler.com/
+[Vagrant]:http://www.vagrantup.com/
+[VirtualBox]:https://www.virtualbox.org/
